@@ -1,0 +1,6 @@
+# Direcciones del sitio anterior → páginas nuevas (Netlify y Cloudflare Pages)
+/quienes-somos      /quienes-somos.html   301
+/contacto           /contacto.html        301
+/men%C3%BA          /menu.html            301
+/menú               /menu.html            301
+/menu               /menu.html            301
